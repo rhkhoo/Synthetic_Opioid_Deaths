@@ -1,2 +1,3 @@
 # Synthetic_Opioid_Deaths
-A repo for Thinkful Capstone 1 investigating how synthetic opioids has affected death rates
+Thinkful Capstone 1 investigating how synthetic opioids has affected death rates per state.
+Data from Centers for Medicare and Medicaid Services
