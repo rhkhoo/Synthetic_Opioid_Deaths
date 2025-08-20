@@ -14,7 +14,7 @@ Doctors may be interested to know that prescribing synthetic opioids does not se
 
 It cannot be said with certainty that prescribing a higher percentage of synthetic opioids has any effect on deaths. The Midwest and North East do not have significantly different synthetic percentages, but do have greatly different death rates. At the same time, the South and the West do have significantly different prescribing rates, but do not have different death rates. It is possible that the overdose death rates are related to regional differences in illicit use of opioids, income, and support programs offered.
 
-It is also important to note that the "Deaths" column in the tables refers to the total number of deaths in each state due to any opioid overdose, not just synthetics. Breaking these deaths into subcategories based on the type of opioid that caused the death may prove insighful.
+It is also important to note that the "Deaths" column in the tables refers to the total number of deaths in each state due to any opioid overdose, not just synthetics. Breaking these deaths into subcategories based on the type of opioid that caused the death may prove insightful.
 
 Since all the prescriptions in this dataset come from Medicare, it may be interesting to see how synthetic percentages differ across insurance companies. Each company has its own formulary (a list of drugs it will cover), and regions where a certain company is dominant may have even larger differences.
 
